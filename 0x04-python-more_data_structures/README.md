@@ -25,4 +25,4 @@ Files | Description
 [101-square_matrix_map.py](./101-square_matrix_map.py) | function that computes the square value of all integers of a matrix using map Prototype: def square_matrix_map(matrix=[]):
 [102-complex_delete.py](./102-complex_delete.py) | Function that deletes keys with a specific value in a dictionary. Prototype: def complex_delete(a_dictionary, value):
 [103-python.c](./103-python.c) | Two (2) C functions that print some basic info about Python lists and Python bytes objects. Prototype 1: void print_python_list(PyObject *p); Prototype 2: void print_python_bytes(PyObject *p); shared library will be compiled with this command line: ``` gcc -Wall -Werror -Wextra -pedantic -std=c99 -shared -Wl,-soname,libPython.so -o libPython.so -fPIC -I/usr/include/python3.4 103-python.c ```
-
+[103-tests.py](./103-tests.py) | Task 16 file
