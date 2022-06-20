@@ -17,5 +17,5 @@ Files | Description
 [6-raise_exception_msg.py](./6-raise_exception_msg.py) | Function that raises a name exception with a message. Prototype: def raise_exception_msg(message=""):
 [100-safe_print_integer_err.py](./100-safe_print_integer_err.py) | Function that prints an integer. Prototype: def safe_print_integer_err(value):
 [101-safe_function.py](./101-safe_function.py) | Function that executes a function safely. Prototype: def safe_function(fct, *args):
-[9. ByteCode -> Python #4(./102-magic_calculation.py) | Python function def magic_calculation(a, b): 
+[9. ByteCode -> Python #4](./102-magic_calculation.py) | Python function def magic_calculation(a, b): 
 [10. CPython #2: PyFloatObject](./103-python.c) | Prototype: void print_python_list(PyObject *p); Prototype: void print_python_bytes(PyObject *p); Prototype: void print_python_float(PyObject *p);
