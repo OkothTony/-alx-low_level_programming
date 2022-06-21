@@ -1,7 +1,7 @@
 # alx-higher_level_programming | Python Project :computer:
 
 ## Description
-ALX-curriculum for high-level programming. These projects are meant to help us learn how to use and apply the basic fundamental concepts from [alx-low_level_programming](./alx-low_level_programming) on a different programming language.
+ALX-curriculum for high-level programming. These projects are meant to help us learn how to use and apply the basic fundamental concepts from [alx-low_level_programming](./https://github.com/bedzon94/alx-higher_level_programming/tree/b8e90056dcf425e4b60275b9ec75b4825d09a2c2) on a different programming language.
 
 ---
 ## Table of Contents :open_file_folder:
