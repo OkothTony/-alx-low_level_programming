@@ -1,10 +1,9 @@
 #!/usr/bin/node
 // JS Script
-const request = require('request');
-
-request('http://swapi.co/api/films/' + process.argv[2], function (error, response, body) {
-  if (error) {
-    console.error(error);
+require('request').get('https://swapi-api.hbtn.io/api/films/:id' + process.argv[2] + '/', function (err, r, body) {
+  if (err) {
+    console.log(err);
+  } else {
+    console.log(JSON.parse(body).title);
   }
-  console.log(JSON.parse(body).title);
 });
