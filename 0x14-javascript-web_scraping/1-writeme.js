@@ -1,5 +1,5 @@
 #!/usr/bin/node
-
+// JS Script
 const fs = require('fs');
 
 try {
